@@ -5,4 +5,6 @@ fuluits
 -banana
 -peach
 aaa
+
+bbb @server
 # brtest
